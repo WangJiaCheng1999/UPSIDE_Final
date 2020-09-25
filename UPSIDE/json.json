@@ -1,9 +1,6 @@
 {
   [
-    {
-      "ExperimentName": "experiment",
-      "Description": "This is a experiment"
-    },
+    
     {
       "Round": 1,
       "Success": false,
