@@ -1,9 +1,5 @@
 {
-  [
-    {
-      "ExperimentName": "experiment",
-      "Description": "This is a experiment"
-    },
+  "Experiment data":[
     {
       "Round": 1,
       "Success": false,
